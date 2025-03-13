@@ -21,4 +21,6 @@ If R² is close to 0, the model has not been able to make good predictions and i
 
 
 In this case, the ExtraTreesRegressor model achieved an R² value of 0.9432, indicating its good performance in predicting the compressive strength of concrete.
+
+
 ![1739867179249](https://github.com/user-attachments/assets/2467555d-381e-40a0-b907-7df61bdbadd8)
